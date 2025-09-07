@@ -1,0 +1,27 @@
+## sensitive files
+**/config.py
+**/vault.py
+**/.env
+**/.env.*
+**/firebase.js
+**/firebase.config.js
+**/*.key
+**/*.pem
+**/secrets/
+**/credentials/
+
+# build files ignore it for better code indexing
+**/build/
+**/dist/
+**/node_modules/
+**/venv/
+**/env/
+**/.venv/
+**/.env/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.pyw
+**/*.pyz
+**/*.pyw
